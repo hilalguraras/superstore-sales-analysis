@@ -1,3 +1,7 @@
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![SQL](https://img.shields.io/badge/SQL-Analysis-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # 📊 Superstore Sales Analysis – Power BI Dashboard
 
  <img width="1271" height="716" alt="dashboard" src="https://github.com/user-attachments/assets/416af563-a0a0-48d0-b86a-a647e53c5c81" />
